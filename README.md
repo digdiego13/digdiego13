@@ -7,7 +7,7 @@
 <p>- I’m currently learning typescript</P>
 <p>- I was an intern at the Porsche Center RJ</P>
 <p>- I was manager of Vehicle Dynamics in the Icarus UFRJ Formula SAE Team (using SCRUM) 👀</P>
-<p>- Education: finishing mechanical engineering at UFRJ</P>
+<p>- Education: finishing Mechanical Engineering at UFRJ</P>
 <p>- Passions: Mountain Biking 🚵, Coding, Reading and Mechanical Engeneering (sometimes)</p>
 <p>- I'm currently looking for my first job that uses technology to solve problems. 🦸🏼‍♂️</p>
 
