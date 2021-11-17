@@ -1,6 +1,6 @@
 ### Hi everybody, I'm Diego
 
-## I'm Fullstack developer based on RJ. currently studyng at Driven Programing Bootcamp :point_right: <img align=center src="https://img.shields.io/badge/-DRIVEN-%23DA5386?style=for-the-badge" alt="Driven" /> :point_left:
+## I'm Fullstack developer based on RJ. currently studying at Driven Programing Bootcamp :point_right: <img align=center src="https://img.shields.io/badge/-DRIVEN-%23DA5386?style=for-the-badge" alt="Driven" /> :point_left:
 
 <br />
 <p>- ✍ You can find my projects here </P>
